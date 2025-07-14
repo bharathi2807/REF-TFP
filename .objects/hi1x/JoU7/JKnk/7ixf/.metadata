@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Download Monthly Invoic…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7ixfDh9DFUGpnya9TJR__Q",
+  "Reference": "QekcMaC4H0ixV8zAgHaXBg/7ixfDh9DFUGpnya9TJR__Q",
+  "ParentRef": "QekcMaC4H0ixV8zAgHaXBg/JKnkFNfhkUCYD4NZc09kgg",
+  "Created": "2025-07-07T16:38:02.7581293Z",
+  "Updated": "2025-07-07T16:38:02.7581293Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

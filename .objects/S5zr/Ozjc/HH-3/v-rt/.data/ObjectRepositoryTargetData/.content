@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lZGg1pedgkSEP-VjFysndg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="ae65ff81-b061-4d92-83e1-b6e5371beabe" CvTextArea="1203, 147, 51, 16" CvTextArgument="Log Out" CvType="Text" DesignTimeRectangle="1189, 129, 80, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Log Out' parentid='bs-example-navbar-collapse-1' tag='A' /&gt;" Guid="3e582552-e795-4ec2-8b38-eec318d79bdc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ae65ff81-b061-4d92-83e1-b6e5371beabe" CvTextArea="113, 222, 177, 31" CvTextArgument="Dashboard" CvType="Text" DesignTimeRectangle="114, 219, 1140, 50" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='page-header' aaname='                                                 Dashboard                                     ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Dashboard' /&gt;" Guid="ad497de5-8248-46cc-952b-c5626ccd0959" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f59d608cc2cd5add7c0702e945c6590a.png" xmlns="">0XUd1kK0-6kqbdIWoMaNACg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

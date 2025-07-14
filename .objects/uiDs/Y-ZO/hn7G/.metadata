@@ -1,0 +1,13 @@
+﻿{
+  "Name": "UiDemo-Reframework",
+  "Type": "Screen",
+  "Id": "hn7GpUccqUSJBTkWBN6nHQ",
+  "Reference": "QekcMaC4H0ixV8zAgHaXBg/hn7GpUccqUSJBTkWBN6nHQ",
+  "ParentRef": "QekcMaC4H0ixV8zAgHaXBg/Y-ZOElj8FE-6RHCi3F_xVw",
+  "Created": "2025-07-07T10:30:42.8284989Z",
+  "Updated": "2025-07-07T10:30:42.8284989Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.7.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
