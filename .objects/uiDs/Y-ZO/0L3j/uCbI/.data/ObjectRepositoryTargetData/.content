@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jhA2BMhUUkGt4a6IBo0AkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/home" CVScreenId="a5313084-329c-4768-99e5-9ae355bc1802" CvTextArea="422, 470, 159, 13" CvTextArgument="Add account modification" CvType="Text" DesignTimeRectangle="405, 464, 248, 26" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Add account modification' parentid='dashmenu' tag='A' /&gt;" Guid="62ca4233-4c2b-4807-bd12-98d97fe8a686" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Dashboard' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a5313084-329c-4768-99e5-9ae355bc1802" CvElementArea="182, 454, 205, 49" CvTextArea="261, 470, 73, 16" CvTextArgument="Accounts" CvType="Button" DesignTimeRectangle="184, 456, 200, 46" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='                  Accounts' parentid='dashmenu' tag='BUTTON' type='button' class='btn btn-default btn-lg dropdown-toggle' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Accounts' /&gt;" Guid="17f7c7c7-c4c2-4b62-aed9-faa32be58426" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3ad68e0dbde46b7854649ae58934138b.png" xmlns="">0iMX5SCUfp0y91HPP8uYekQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

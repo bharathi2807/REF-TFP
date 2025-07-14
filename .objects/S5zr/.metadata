@@ -1,0 +1,12 @@
+﻿{
+  "Name": "explorer.exe",
+  "Type": "App",
+  "Id": "S5zrWFj-4EOO80LBppAfnA",
+  "Reference": "QekcMaC4H0ixV8zAgHaXBg/S5zrWFj-4EOO80LBppAfnA",
+  "Created": "2025-07-08T16:08:22.0079249Z",
+  "Updated": "2025-07-08T16:08:22.0079249Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

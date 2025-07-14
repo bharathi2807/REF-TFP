@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8E8u8s8Y5kWCUpPXQN4Bww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="1217831b-5d53-4f1e-a237-41ef117dc3ae" CvElementArea="182, 641, 63, 36" CvTextArea="195, 652, 37, 16" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="184, 642, 60, 34" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="55043d0b-3230-4011-965b-dd1919a7fa63" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1217831b-5d53-4f1e-a237-41ef117dc3ae" CvElementArea="182, 604, 16, 16" CvTextArea="199, 605, 97, 13" CvTextArgument="Remember Me" CvType="CheckBox" DesignTimeRectangle="184, 601, 485, 26" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div' idx='3' tag='DIV' /&gt;" Guid="f7eee387-a764-40ba-8f49-56136d487dab" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4d8fcbf2d2b68c352ee4340056791ccb.png" xmlns="">0Z01DciHTok2X-5daTGgZgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
